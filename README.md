@@ -5,4 +5,4 @@ ez pz little project
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019f6a08-417f-7260-8ac8-52b2f5b23fd2/screenshot.png)
+![Website Preview](site.png)
